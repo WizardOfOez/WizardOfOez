@@ -3,4 +3,4 @@
 > 
 > 24 years old.
 > 
-> Currently learning C#, HTML+ CSS, php, JavaScript. 
+> Currently learning C# and JavaScript. 
